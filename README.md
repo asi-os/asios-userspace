@@ -1,5 +1,6 @@
 
 # 🖥️ ASIOS™ Userspace
+[![Sponsor](https://img.shields.io/github/sponsors/asi-os?label=Sponsor&logo=github)](https://github.com/sponsors/asi-os)
 
 High-level tools, utilities, and libraries running atop the ASIOS™ kernel for AI orchestration, telemetry, tuning, and management.
 
